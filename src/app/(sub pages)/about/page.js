@@ -24,7 +24,7 @@ export default function Home() {
 
       <div className="relative w-full h-screen flex flex-col items-center justify-center">
       <div className="absolute flex flex-col items-center text-center top-3/4 sm:top-[70%] left-1/2 -translate-y-1/2 -translate-x-1/2">
-        <h1 className="text-3xl xs:text-4xl sm:text-5xl lg:text-6xl font-bold text-accent">GASORE NSHUTI Moise</h1>
+        <h1 className="text-xl xs:text-3xl sm:text-4xl lg:text-6xl font-bold text-accent">GASORE NSHUTI Moise</h1>
         <p className="font-light text-foreground text-lg">Meet the wizard behind all this magic</p>
       </div>
       </div>
